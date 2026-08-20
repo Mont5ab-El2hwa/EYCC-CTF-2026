@@ -6,10 +6,9 @@ Mahmoud left his workstation unlocked during a short break. While he was away, a
 
 ## Memory Dump Download
 
-- **Gofile Link:** [https://gofile.io/d/qac52te1](https://gofile.io/d/qac52te1)
-- **Google Drive Mirror:** [https://drive.google.com/file/d/1qhdjD2RrTpX_rj-Tw1z3XRwXFEpCIVs5/view?usp=sharing](https://drive.google.com/file/d/1qhdjD2RrTpX_rj-Tw1z3XRwXFEpCIVs5/view?usp=sharing)
+- **Download Link:** [Silent-Access.zip](https://drive.google.com/file/d/16fglUaiIsMMzeObI0EZyNR28kiZyjVz-/view?usp=sharing)
 
-## Questions and Solver
+## challenge
 
-- [Questions](Questions/Silent-Access_Questions.md)
-- [Solver answers](solvers/Silent-Access.json)
+- [Questions](Files/Silent-Access_Questions.md)
+- [Solver answers](Files/Silent-Access.json)

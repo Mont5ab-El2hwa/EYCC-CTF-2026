@@ -6,6 +6,6 @@ An employee's workstation was flagged after unusual outbound network activity wa
 
 ## Download
 
-- **Download Link:** [Download Files](https://shorturl.at/YndOm)
+- **Download File:** [Tick-Tock.zip](Files/Tick-Tock.zip)
 
 **Flag Format:** `EYCC{...}`

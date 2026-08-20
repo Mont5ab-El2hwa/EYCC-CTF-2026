@@ -6,9 +6,9 @@ The SOC team has detected suspicious activity in the network traffic, revealing 
 
 ## Download
 
-- **Download Link:** [Download PCAP](https://shorturl.at/mEBJ9)
+- **Download File:** [ghost-in-the-hall.pcap](Files/ghost-in-the-hall.pcap)
 
-## Questions and Solver
+## challenge
 
-- [Questions](Questions/ghost-in-the-hall_Questions.md)
-- [Solver answers](solvers/ghost-in-the-hall.json)
+- [Questions](Files/ghost-in-the-hall_Questions.md)
+- [Solver answers](Files/ghost-in-the-hall.json)

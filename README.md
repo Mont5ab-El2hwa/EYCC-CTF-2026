@@ -37,16 +37,16 @@ New to CTFs? Check out [What is a CTF?](https://www.geeksforgeeks.org/ethical-ha
 All challenges in this repository were created by [Mont5ab El2hwa](https://2hwa.xyz/) · Egyptian CTF players, bug hunters, and security researchers.
 
 - **Reverse Engineering**
-  1. [Metoubas v1](reverse/README.md#metoubas-v1)
-  2. [Metoubas v2](reverse/README.md#metoubas-v2)
-  3. [Metoubas v3](reverse/README.md#metoubas-v3)
-  4. [Easy .NET](reverse/README.md#easy-net)
-  5. [Late WarmUp](reverse/README.md#late-warmup)
-  6. [Normal License Validator](reverse/README.md#normal-license-validator)
-  7. [BabyStep](reverse/README.md#babystep)
-  8. [BabyStepV2](reverse/README.md#babystepv2)
-  9. [Operation: GANBAR | Free Photoshop](reverse/README.md#operation-ganbar--free-photoshop)
-  10. [Operation: GANBAR | natega.xls](reverse/README.md#operation-ganbar--nategaxls)
+  1. [Metoubas v1](reverse/Metoubas-v1.zip)
+  2. [Metoubas v2](reverse/Metoubas-v2.zip)
+  3. [Metoubas v3](reverse/Metoubas-v3.zip)
+  4. [Easy .NET](reverse/Easy.NET.exe)
+  5. [Late WarmUp](reverse/Late-WarmUp.exe)
+  6. [Normal License Validator](reverse/License-Validator.exe)
+  7. [BabyStep](reverse/BabyStep.exe)
+  8. [BabyStepV2](reverse/BabyStepV2.exe)
+  9. [Operation: GANBAR | Free Photoshop](reverse/Operation-GANBAR-Free-Photoshop.zip)
+  10. [Operation: GANBAR | natega.xls](reverse/Operation-GANBAR-natega.xls.zip)
 
 - **Digital Forensics**
   1. [Ghost in the Hall](forensics/ghost-in-the-hall.md)
@@ -59,13 +59,13 @@ All challenges in this repository were created by [Mont5ab El2hwa](https://2hwa.
   1. [Mall Albostan](web/mall-albostan_player.7z)
   2. [Brew Bank](web/BREW-BANK_player.7z)
   3. [Brew Bank Revenge](web/BREW-BANK_Revenge_player.7z)
-  4. [CoffeeHub](web/CoffeeHub_player.7z)
-  5. [CoffeeHub Revenge](web/CoffeeHub-Revenge_player.7z)
-  6. [Krusty Krab Order Boards](web/Krusty-Krab-Order-Boards_player.7z)
-  7. [NimbusPages](web/NimbusPages_player.7z)
-  8. [Rising Star](web/Rising-Star_player.7z)
-  9. [shay blaban](web/shay-blaban_player.7z)
-  10. [sql? no sql](web/sql-no-sql_player.7z)
+  4. [Krusty Krab Order Boards](web/Krusty-Krab-Order-Boards_player.7z)
+  5. [NimbusPages](web/NimbusPages_player.7z)
+  6. [Rising Star](web/Rising-Star_player.7z)
+  7. [CoffeeHub](web/CoffeeHub_player.7z) *(Blackbox)*
+  8. [CoffeeHub Revenge](web/CoffeeHub-Revenge_player.7z) *(Blackbox)*
+  9. [shay blaban](#) *(Blackbox)*
+  10. [sql? no sql](web/sql-no-sql_player.7z) *(Blackbox)*
 
 - **Mobile Security**
   1. [Warmup](mobile/Warmup.apk)
@@ -96,10 +96,10 @@ All challenges in this repository were created by [Mont5ab El2hwa](https://2hwa.
   3. [Wind](pwn/Wind.7z)
 
 - **Miscellaneous**
-  1. [Details Never Appear](misc/README.md#details-never-appear)
-  2. [Look Closer](misc/README.md#look-closer)
-  3. [Escape From SpongeBob](misc/README.md#escape-from-spongebob)
-  4. [Ghost](misc/README.md#ghost)
+  1. [Details Never Appear](misc/Details-Never-Appear.txt)
+  2. [Look Closer](#)
+  3. [Escape From SpongeBob](misc/Escape-From-SpongeBob.png)
+  4. [Ghost](misc/Ghost.csv)
 
 > [!NOTE]
 > 📝 **Official Writeups**  

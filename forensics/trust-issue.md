@@ -6,9 +6,9 @@ Mahmoud was chatting with a colleague and asked them to send the required work f
 
 ## Download
 
-- **Download Link:** [Download](https://shorturl.at/NQmAt)
+- **Download Link:** [trust-issue.zip](https://drive.google.com/file/d/1zhu3XmNYSceq7AAKjhqsMTbbLngNyiQq/view?usp=sharing)
 
-## Questions and Solver
+## challenge
 
-- [Questions](Questions/trust-issue_Questions.md)
-- [Solver answers](solvers/trust-issue.json)
+- [Questions](Files/trust-issue_Questions.md)
+- [Solver answers](Files/trust-issue.json)
