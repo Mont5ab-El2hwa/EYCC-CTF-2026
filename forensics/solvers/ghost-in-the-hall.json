@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "What is the IP address of the compromised workstation?",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the Command & Control IP address and port? (format: IP:Port)",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What User-Agent does the malware use for beaconing?",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What server header and OS is the C2 gateway running?",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the beaconing interval used by the malware? (in seconds)",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "When did the first C2 beacon occur? (UTC, format: YYYY-MM-DD HH:MM:SS)",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the SHA256 of the second executable?",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the malware detection label based on the ESET-NOD32 AV?",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "What is the timestamp for the malware's creation? (UTC, format: YYYY-MM-DD HH:MM:SS)",
+    "answers": [],
+    "normalizer": "text"
+  },
+  {
+    "prompt": "As part of VM evasion, what Windows registry key did the malware query to detect VMware?",
+    "answers": [],
+    "normalizer": "text"
+  }
+]
