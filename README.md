@@ -109,24 +109,72 @@ All challenges in this repository were created by [Mont5ab El2hwa](https://2hwa.
 
 ## Team Credits
 
-| Member | Profile |
-| --- | --- |
-| Mahmoud Elkhateb | [`@elkhatebx22`](https://2hwa.xyz/elkhatebx22) |
-| Ibrahim Saeid | [`@babayaga0x01`](https://2hwa.xyz/babayaga0x01) |
-| Ibrahim (the crypto guy) | [`@vr3e`](https://www.linkedin.com/in/ibrahim-adel-6437b123b/) |
-| Abdelrahman Walid | [`@Abdelrahman_483`](https://2hwa.xyz/abdelrahman9969) |
-| Abdelrahman Radwan | [`@agn4by`](https://2hwa.xyz/Agn4by) |
-| Abdelrahman Ahmed | [`@0x2face`](https://2hwa.xyz/0x2face) |
-| Ahmed Sherif | [`@k45w4ra`](https://2hwa.xyz/k45w4ra) |
-| Ali Sherif | [`@spect3r`](https://2hwa.xyz/Spect3r) |
-| Adham Khairy | [`@Sponge`](https://2hwa.xyz/0xsponge) |
-| Omar Elgayar | [`@OG13`](https://2hwa.xyz/OG13) |
-| Mohamed Younis | [`@mo_younis`](https://2hwa.xyz/Y0un15) |
-| Mohamed Aly | [`@00xcanelo`](https://2hwa.xyz/00xcanelo) |
-| Mohamed Hegazy | [`@binbash`](https://2hwa.xyz/0xheg3zy) |
-| Mahmoud Mostafa | [`@M-Ab0L3TA`](https://2hwa.xyz/MAb0EL3TA) |
-| Mohamed Bakr | [`@烈火`](https://2hwa.xyz/0xreizouko) |
-| Mohammed Abdallah | [`@mo.ha08`](#) |
+<table>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1191460426429501541/e749c69677bd7405291664a68da23a76.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mahmoud Elkhateb</b></td>
+    <td><a href="https://github.com/Elkhatebx22">@elkhatebx22</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1041041457290682368/a342b8bef389fa6a20111a0921351076.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Ibrahim Saeid</b></td>
+    <td><a href="https://github.com/BabaYaga0x01">@babayaga0x01</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1002952700880764958/bbcc7c80f89fd54e9ef53dc510a66911.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mohamed Aly</b></td>
+    <td><a href="https://github.com/00xCanelo">@00xcanelo</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/490936202384506900/9b619d4e450ed2266c09e9ad115cf67d.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mohamed Bakr</b></td>
+    <td><a href="https://github.com/0xreizouko">@0xreizouko</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1063192541408800798/d934e8c960a118391335212c61011a1e.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Omar Elgayar</b></td>
+    <td><a href="https://medium.com/@OG13">@OG13</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1144355791059554376/f1b0ce85283ef5123feeb5e03b3b0348.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mohamed Younis</b></td>
+    <td><a href="https://y0un15.me/">@Y0un15</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/860255758476902400/1c303ac844d8fbd45cbbfcca8527cebb.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Abdelrahman Walid</b></td>
+    <td><a href="https://2hwa.xyz">@Abdelrahman_483</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1200806481436606555/4df50881356d481ea3623b00625bccc0.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Abdelrahman Radwan</b></td>
+    <td><a href="https://medium.com/@agnaby">@Agn4by</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1276829957338828841/a449c300bff5836eb54b7a1a9dbac725.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mohamed Hegazy</b></td>
+    <td><a href="https://medium.com/@0xheg3zy">@0xheg3zy</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1293335632873259018/2d6deaac6b3eae7706504924bd362ba6.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Abdelrahman Ahmed</b></td>
+    <td><a href="https://medium.com/@2FACE_">@2FACE</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/941114551418650635/920cf0086d3700c68900ffb39e5d4ff6.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Ali Sherif</b></td>
+    <td><a href="https://2hwa.xyz">@Spect3r</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1211619721485746199/e83c76383e7e30559667ef86f5a6753e.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mahmoud Mostafa</b></td>
+    <td><a href="https://medium.com/@MAb0EL3TA">@MAb0EL3TA</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1339330744186703994/e5b84fcbaf17551f88de998aacea3f05.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Mohamed Mohaseb</b></td>
+    <td><a href="https://medium.com/@medohasabo13">@medohasabo13</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1058476057155604480/4bd498b6721b31f0e1dd06c72e49bd2b.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Ahmed Fawzy</b></td>
+    <td><a href="https://2hwa.xyz">@ahmedmofawzy</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/735483553185398815/38bdd3399037ae4ead50290a66769896.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Ahmed Sherif</b></td>
+    <td><a href="https://medium.com/@k45w4ra">@k45w4ra</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.discordapp.com/avatars/1008736955799969806/b685c895fcffa5ecd80af1335a836962.png?size=1024" width="24" height="24" align="center" style="border-radius:50%;" /> <b>Adham Khairy</b></td>
+    <td><a href="https://0xsponge.me/">@0xsponge</a></td>
+  </tr>
+</table>
 
 ---
 
